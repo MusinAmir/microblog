@@ -2,3 +2,4 @@
 *.vscode
 *venv
 *logs
+*app/__pycache__
